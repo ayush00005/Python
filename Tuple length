@@ -1,0 +1,11 @@
+intTuple = (10, 20, 30, 40, 50)
+print("Tuple Items = ", intTuple)
+
+inttupleLength = len(intTuple)
+print("Tuple Length = ", inttupleLength)
+
+strTuple = ('apple', 'Mango', 'kiwi')
+print("String Tuple Items = ", strTuple)
+
+strtupleLength = len(strTuple)
+print("String Tuple Length = ", strtupleLength)
